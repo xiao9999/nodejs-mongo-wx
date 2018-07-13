@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-ex",
+  "name": "nodejs-wx",
   "version": "0.0.1",
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
@@ -15,12 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/openshift/nodejs-ex.git"
+    "url": "https://github.com/xiao9999/nodejs-mongo-wx.git"
   },
   "author": "xiao <xiao9999@gmail.com>",
   "license": "CC-BY-1.0",
-  "bugs": {
-    "url": "http://github.com/openshift/nodejs-ex/issues"
-  },
   "homepage": "https://github.com/xiao9999/nodejs-mongo-wx"
 }
