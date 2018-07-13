@@ -1,7 +1,7 @@
 // ===================================================
-// FOR PRODUCTION
+// 
 // Total.js - framework for Node.js platform
-// https://www.totaljs.com
+// 
 // ===================================================
 
 const options = {};
